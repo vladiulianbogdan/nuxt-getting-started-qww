@@ -19,7 +19,7 @@ This is a template for a Nuxt project with Genezio. It is simple and easy to use
 
 In the `app.vue` file, you will see a very basic Nuxt project.
 
-You can update the `app.vue` file to add your own content, and you can also add more pages to your project.
+You can remove welcome page by replacing <NuxtWelcome /> in app.vue with your own code, or creating your own app.vue if it doesn't exist.
 
 # Deploy
 :rocket: You can deploy your own version of the template to Genezio with one click:
